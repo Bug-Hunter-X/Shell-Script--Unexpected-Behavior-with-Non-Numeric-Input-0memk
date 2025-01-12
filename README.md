@@ -1,0 +1,1 @@
+This repository demonstrates a common error in shell scripting related to input validation.  The `bug.sh` script showcases the issue, where a simple arithmetic operation fails when non-numeric data is encountered in the input file. The `bugSolution.sh` file provides a corrected version which incorporates robust error handling and input validation, preventing unexpected results.
